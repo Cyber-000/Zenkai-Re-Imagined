@@ -1,0 +1,3 @@
+For this folder this is where the textures will be all of them including, entities (people, animals, etc etc), particles (kamehameha waves, galic guns,ki blasts etc etc) and more.|
+
+i need to also make sure the images need to be in the MINECRAFT FORMAT nothing more nothing less
